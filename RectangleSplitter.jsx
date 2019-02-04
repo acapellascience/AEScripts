@@ -2,7 +2,7 @@
     
     This is a little ScriptUI tool to generate some default rectangles. and to split and merge rectangles to quickly generate starting grids for multi-part videos.
     
-    It has some quirks if you use it on drawn rectangles, but works well if you stay within the tool. To create a full-screen rectangle, gemerate one left and one right, then merge.*/
+    It has some quirks if you use it on drawn rectangles, but works well if you stay within the tool. To create a full-screen rectangle, generate one left and one right, then merge.*/
 
 {
     function myScript(thisObj){
